@@ -10,7 +10,7 @@ Clone the project using the [link](https://github.com/KengoWada/Stackoverflow-li
 
 ### Prerequisites
 
-A browser with the access to the internet.
+A browser with the a ccess to the internet.
 
 ### Installing
 
@@ -46,7 +46,7 @@ POST|api/v1/questions/questionId/answers|Add an answer
 
 ### Deployment
 
-The API is hosted on [Heroku](https://kengo-stackoverflow-lite-api.herokuapp.com/).
+The API is hosted on [Heroku]().
 
 ### Built With
 
