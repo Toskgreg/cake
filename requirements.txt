@@ -66,7 +66,7 @@ six==1.11.0
 # torbrowser-launcher==0.2.9
 Twisted==17.9.0
 # txsocksx==0.0.0
-urllib3==1.23
+urllib3==1.26.5
 virtualenv==16.0.0
 virtualenv-clone==0.3.0
 Werkzeug==0.14.1
